@@ -44,5 +44,115 @@
     "g5_trill": "natural/g5_trill.wav",
     "g6_fake": "natural/g6_fake.wav",
     "g6_fake_1": "tuned/g6_fake.wav"
-  }
+  },
+  "noteMap": [
+    {
+      "note": "G2",
+      "sample": "g2",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A2",
+      "sample": "a2",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F3",
+      "sample": "f3",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G3",
+      "sample": "g3",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A3",
+      "sample": "a3",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C4",
+      "sample": "c4",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D4",
+      "sample": "d4",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "E4",
+      "sample": "e4",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C5",
+      "sample": "c5_trill",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G5",
+      "sample": "g5_fake",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A5",
+      "sample": "a5_fake",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "B5",
+      "sample": "b5_trill",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F6",
+      "sample": "f6_fake",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G6",
+      "sample": "g6_fake",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A6",
+      "sample": "a6_fake",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C7",
+      "sample": "c7_fake",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D7",
+      "sample": "d7_fake",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "E7",
+      "sample": "e7_fake",
+      "loVel": 0,
+      "hiVel": 127
+    }
+  ]
 }
